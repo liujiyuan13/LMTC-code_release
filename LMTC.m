@@ -1,4 +1,4 @@
-function [H, obj] = LMTC42(X, c, lambda)
+function [H, obj] = LMTC(X, c, lambda)
 
 % shapes
 V = length(X); 
