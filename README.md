@@ -2,7 +2,7 @@
 
 Matlab implementation for CVPR25 paper:
 
-- Jiyuan Liu, Xinwang Liu, Chuankun Li, Xinhang Wan, Hao Tan, Yi Zhang, Weixuan Liang, Qian Qu, Yu Feng, Renxiang Guan, Ke Liang: [Large-scale Multi-view Tensor Clustering with Implicit Linear Kernels](http://cjc.ict.ac.cn/online/onlinepaper/ljy-202479162037.pdf). IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR, 2025.
+- Jiyuan Liu, Xinwang Liu, Chuankun Li, Xinhang Wan, Hao Tan, Yi Zhang, Weixuan Liang, Qian Qu, Yu Feng, Renxiang Guan, Ke Liang: [Large-scale Multi-view Tensor Clustering with Implicit Linear Kernels](https://liujiyuan13.github.io). IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR, 2025.
 
 ## Introduction
 **Abstract**
@@ -33,11 +33,12 @@ wshrinkObj.m        # part of LMTC algorithm
 
 If you find our code useful, please cite:
 
-    @article{liu2025lmtc,
-        title        = {On the Correlation Measurement of Data Representations},
-        author       = {Jiyuan Liu and Xinwang Liu and Chuankun Li and Xinhang Wan and Hao Tan and Yi Zhang and Weixuan Liang and Qian Qu and Yu Feng and Renxiang Guan and Ke Liang},
-        year         = 2025,
-        journal      = {IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR, 2025}
+    @inproceedings{liu2025lmtc,
+        title     = {Large-scale Multi-view Tensor Clustering with Implicit Linear Kernels},
+        author    = {Jiyuan Liu and Xinwang Liu and Chuankun Li and Xinhang Wan and Hao Tan and Yi Zhang and Weixuan Liang and Qian Qu and Yu Feng and Renxiang Guan and Ke Liang},
+        year      = 2025,
+        booktitle = {{IEEE/CVF} Conference on Computer Vision and Pattern Recognition, {CVPR} 2025, Music City Center, Nashville TN, June 11-15, 2025},
+        publisher = {{IEEE}}
     }
 
 
